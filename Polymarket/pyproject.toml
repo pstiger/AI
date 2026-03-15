@@ -1,0 +1,12 @@
+[project]
+name = "polymarket-arbitrage"
+version = "0.1.0"
+description = "Scan Polymarket for simple public-data arbitrage opportunities."
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["polymarket_arbitrage*"]
