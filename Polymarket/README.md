@@ -38,7 +38,7 @@ python3 -m polymarket_arbitrage.cli --slippage-bps 15 --fee-bps 25 --workers 32
 python3 -m polymarket_arbitrage.cli --json
 ```
 
-## Output
+## Output Explanations
 
 Each opportunity includes:
 
